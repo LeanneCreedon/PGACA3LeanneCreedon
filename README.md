@@ -1,1 +1,2 @@
-# PGACA3LeanneCreedon
+## Dynamic Weather Ambiance ##
+#### By Leanne Rose Creedon ####
