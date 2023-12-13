@@ -19,7 +19,16 @@ The user can adjust various parameters in order to create their own atmospheric 
 MetaSounds were created using white noise and filtering techniques.
 
 ### 🗒️Descripton Of Application ###
-The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can escape the hustle and bustle of everyday life and relax and listen to nature sounds. This Project aims to emulate the many YouTube ambiance 3D scenes that have beautiful atmospheric sounds and pleasing visuals. In this ambiant scene there is a day/night cycle which affects whether the birds or crickets play. The time of day also effects the text on the top of the screen which will change to read "Day" or "Night". The camera shakes ever so slightly to simulate the wind blowing against it. There is a rain animation which is affected by the heaviness of the rain set by the user. Thunder ☁️ and Lightning 🌩️ was originally planned, but these sounds were not completed and therefore are not included in the final product.
+The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can escape the hustle and bustle of everyday life and relax and listen to nature sounds. This Project aims to emulate the many YouTube ambiance 3D scenes that have beautiful atmospheric sounds and pleasing visuals. This would be an example of a scene with similar sounds and vibes -> https://www.youtube.com/watch?v=5_NgwbEs4JE
+
+🔑Key Features:
+* Day/Night cycle which affects whether the birds or crickets play. Text on the top of the screen which will change to read "Day" or "Night".
+* The camera shakes ever so slightly to simulate the wind blowing against it.
+* Rain animation which is affected by the heaviness of the rain set by the user.
+
+Incomplete Features:
+* Thunder ☁️
+* Lightning 🌩️
 
 ⛰️Screenshot of application below:
 
