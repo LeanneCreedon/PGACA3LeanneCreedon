@@ -1,4 +1,4 @@
-## 🌦️ Dynamic Weather Ambiance ##
+## 🌦️ ${{\color{teal}Dynamic}}\ Weather\ {\color{gray}Ambiance}\$ ##
 #### By Leanne Rose Creedon ####
 
 <img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/b8d3b3fe-79aa-46d3-961b-04d3422a7dc6" width="500" />
@@ -23,15 +23,19 @@ The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can esca
 
 ⛰️Screenshot of application below:
 
-<img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/02fd9a23-58d0-4021-abc6-3d142263e7b4" width="800" />
+> <img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/02fd9a23-58d0-4021-abc6-3d142263e7b4" width="800" />
 
 ### ⏬Instructions For Download and Use:  ###
-Simply download the .zip file and extract. Then go to the build folder, and select the 'Application' file - which has the above logo as the icon. If you wish to run it through the engine, simply open the engine file, go to All > Content > _AmbianceProject > Scene and select 01_LevelBlueprint. When the scene has opened up, press play.
+Simply download the .zip file and extract. Then go to the build folder, and select the 'Application' file - which has the above logo as the icon. 
+
+> [!TIP]
+> If you wish to run it through the engine, simply open the engine file, go to All > Content > _AmbianceProject > Scene and select 01_LevelBlueprint. When the scene has opened up, press play.
 
 ### 📔Sources: ###
 
-_The Following list includes tutorials and websites that have helped during development of the MetaSounds and Scene Components in this Project._
-_Also included are 3D Assets, .Wav Files, Tools and Font(s) used._
+> [!NOTE]
+> _The Following list includes tutorials and websites that have helped during development of the MetaSounds and Scene Components in this Project._
+> _Also included are 3D Assets, .Wav Files, Tools and Font(s) used. Weather Symbols were gathered from Photopea using the shapes tool._
 
 **Legend:** ⏯️ = YouTube Tutorial, 🔨 = Tool, 🕸️ = Website, 🔊 = Wav Asset, 🌲 = 3D Asset(s), ✍️ = Font
 
@@ -51,6 +55,4 @@ _Also included are 3D Assets, .Wav Files, Tools and Font(s) used._
 | 🕸️ | Ways to use White Noise in Sound Design | http://tinyurl.com/42d7f33p |
 | 🔨 | Photopea | http://tinyurl.com/2jb3ch5y |
 
-_The Weather Symbols were gathered from Photopea using the shapes tool._
-
-Hope you Enjoy! 😄
+> Hope you Enjoy! 😄
