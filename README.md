@@ -27,6 +27,8 @@ The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can esca
 * Rain animation which is affected by the heaviness of the rain set by the user.
 
 Incomplete Features:
+* Camera shake frequency increace/decrease with wind strength value and/or Trees & Grass animations adjust with wind strength value.
+* Window lights on house turn off during day. i.e. change to another texture with no emision.
 * Thunder ☁️
 * Lightning 🌩️
 
