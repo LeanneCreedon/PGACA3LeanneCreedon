@@ -26,7 +26,7 @@ The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can esca
 > <img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/02fd9a23-58d0-4021-abc6-3d142263e7b4" width="800" />
 
 ### ⏬Instructions For Download and Use:  ###
-Simply download the .zip file and extract. Then go to the build folder, and select the 'Application' file - which has the above logo as the icon. 
+Simply download the .zip file and extract. ~~Then go to the build folder, and select the 'Application' file - which has the above logo as the icon.~~ ***Build Not Currently Included in the repository as the file size was too large***
 
 > [!TIP]
 > If you wish to run it through the engine, simply open the engine file, go to All > Content > _AmbianceProject > Scene and select 01_LevelBlueprint. When the scene has opened up, press play.
