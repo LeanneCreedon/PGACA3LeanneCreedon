@@ -18,14 +18,14 @@ The user can adjust various parameters in order to create their own atmospheric 
 MetaSounds were created using white noise and filtering techniques.
 
 ### 🗒️Descripton Of Application ###
-The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can escape the hustle and bustle of everyday life and relax and listen to nature sounds. This Project aims to emulate the many YouTube ambiance 3D scenes that have beautiful atmospheric sounds and pleasing visuals. This would be an example of a scene with similar sounds and vibes -> https://www.youtube.com/watch?v=5_NgwbEs4JE
+Weather Ambiance set in a Low Poly 3D Environment. On the UI there are six sliders. The wind strength and rain heaviness can be increased/decreased which will effect the sound of the wind or rain procedurally. The volume of the rain, wind, birds and crickets can be changed as well. This Project aims to emulate atmospheric ambiant scenes found on YouTube that have relaxing sounds and pleasing visuals. (This would be an example of a scene with similar sounds and vibes -> https://www.youtube.com/watch?v=5_NgwbEs4JE).
 
 🔑Key Features:
 * Day/Night cycle which affects whether the birds or crickets play. Text on the top of the screen which will change to read "Day" or "Night".
 * The camera shakes ever so slightly to simulate the wind blowing against it.
 * Rain animation which is affected by the heaviness of the rain set by the user.
 
-🚧Incomplete Features:
+🚧Incomplete Sounds and Features:
 * Camera shake frequency increace/decrease with wind strength value and/or Trees & Grass animations adjust with wind strength value.
 * Window lights on house turn off during day. i.e. change to another texture with no emision.
 * Thunder ☁️
@@ -46,18 +46,18 @@ Download the .zip file and extract. Open the engine file, go to All > Content > 
 
 > **Legend:** ⏯️ = YouTube Tutorial, 🔨 = Tool, 🕸️ = Website, 🔊 = Wav Asset, 🌲 = 3D Asset(s), ✍️ = Font
 
-| Type | Description | Shortened URL |
+| Type | Description | URL |
 | --- | --- | --- |
-| ⏯️ | Niagara Rain System | http://tinyurl.com/2cv8tw84 |
-| ⏯️ | Change UI text using Blueprints | http://tinyurl.com/md5fwm8 |
-| ⏯️ | Creating Day/Night Cycle | http://tinyurl.com/48arhvnk |
-| ⏯️ | Developing White Noise Machine | http://tinyurl.com/5bk94cmu |
-| ⏯️ | Developing Dynamic Wind System | http://tinyurl.com/hk2butsh |
-| 🔊 | Crickets | http://tinyurl.com/m7nkxjmv |
-| 🔊 | Birds | http://tinyurl.com/bde34zxf |
-| 🔊 | Rain Pitter Patter | http://tinyurl.com/46x5b9cp |
-| 🌲 | Stylized Nature Pack | http://tinyurl.com/2pab9k88 |
-| 🌲 | Low Poly Cartoon House | http://tinyurl.com/2njtmwuh |
-| ✍️ | Vanilla Font | http://tinyurl.com/2n7c6cmn |
-| 🕸️ | Ways to use White Noise in Sound Design | http://tinyurl.com/42d7f33p |
-| 🔨 | Photopea | http://tinyurl.com/2jb3ch5y |
+| ⏯️ | Niagara Rain System | https://www.youtube.com/watch?v=s_UQYuM1RWU&t=129s |
+| ⏯️ | Change UI text using Blueprints | https://www.youtube.com/watch?v=GvRJBsCrkug |
+| ⏯️ | Creating Day/Night Cycle | https://www.youtube.com/watch?v=Puz-CsjdkLU&t=416s |
+| ⏯️ | Developing White Noise Machine | https://www.youtube.com/watch?v=zxDh4GtFsN8 |
+| ⏯️ | Developing Dynamic Wind System | https://www.youtube.com/watch?v=oZW1U882mh4 |
+| 🔊 | Crickets | https://freesound.org/people/rifualk/sounds/648470/ |
+| 🔊 | Birds | https://freesound.org/people/_tyler7687/sounds/516773/ |
+| 🔊 | Rain Pitter Patter | https://freesound.org/people/Koops/sounds/17877/ |
+| 🌲 | Stylized Nature Pack | https://www.unrealengine.com/marketplace/en-US/product/stylized-pbr-nature-pack?sessionInvalidated=true |
+| 🌲 | Low Poly Cartoon House | https://www.turbosquid.com/3d-models/cartoon-wood-house-3d-model-1660074 |
+| ✍️ | Vanilla Font | https://www.fontsquirrel.com/fonts/vanilla |
+| 🕸️ | Ways to use White Noise in Sound Design | https://medium.com/@DmnkBrn/10-creative-ways-to-use-white-noise-in-sound-design-5805cdb3aaff |
+| 🔨 | Photopea | https://www.photopea.com/ |
