@@ -1,9 +1,8 @@
-## 🌦️ ${{\color{teal}Dynamic}}\ Weather\ {\color{gray}Ambiance}\$ ##
+<img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/b8d3b3fe-79aa-46d3-961b-04d3422a7dc6" width="700" />
+
 #### By Leanne Rose Creedon ####
 
-<img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/b8d3b3fe-79aa-46d3-961b-04d3422a7dc6" width="500" />
-
-_CA3 Prototype Project for Procedural Game Audio Module Year 4 Semester 1._
+> _CA3 Prototype Project for Procedural Game Audio Module Year 4 Semester 1._
 
 Developed in Unreal Engine 5.2 and MetaSound.
 
@@ -26,13 +25,13 @@ The Weather Ambiance is set in a Cute Low Poly 3D Environment where you can esca
 * The camera shakes ever so slightly to simulate the wind blowing against it.
 * Rain animation which is affected by the heaviness of the rain set by the user.
 
-Incomplete Features:
+🚧Incomplete Features:
 * Camera shake frequency increace/decrease with wind strength value and/or Trees & Grass animations adjust with wind strength value.
 * Window lights on house turn off during day. i.e. change to another texture with no emision.
 * Thunder ☁️
 * Lightning 🌩️
 
-⛰️Screenshot of application below:
+Screenshot of application below:
 
 > <img src="https://github.com/LeanneCreedon/PGACA3LeanneCreedon/assets/78487811/02fd9a23-58d0-4021-abc6-3d142263e7b4" width="800" />
 
@@ -48,7 +47,7 @@ Simply download the .zip file and extract. ~~Then go to the build folder, and se
 > _The Following list includes tutorials and websites that have helped during development of the MetaSounds and Scene Components in this Project._
 > _Also included are 3D Assets, .Wav Files, Tools and Font(s) used. Weather Symbols were gathered from Photopea using the shapes tool._
 
-**Legend:** ⏯️ = YouTube Tutorial, 🔨 = Tool, 🕸️ = Website, 🔊 = Wav Asset, 🌲 = 3D Asset(s), ✍️ = Font
+> **Legend:** ⏯️ = YouTube Tutorial, 🔨 = Tool, 🕸️ = Website, 🔊 = Wav Asset, 🌲 = 3D Asset(s), ✍️ = Font
 
 | Type | Description | Shortened URL |
 | --- | --- | --- |
@@ -65,5 +64,3 @@ Simply download the .zip file and extract. ~~Then go to the build folder, and se
 | ✍️ | Vanilla Font | http://tinyurl.com/2n7c6cmn |
 | 🕸️ | Ways to use White Noise in Sound Design | http://tinyurl.com/42d7f33p |
 | 🔨 | Photopea | http://tinyurl.com/2jb3ch5y |
-
-> Hope you Enjoy! 😄
