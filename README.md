@@ -53,6 +53,7 @@ Download the .zip file and extract. Open the engine file, go to All > Content > 
 | ⏯️ | Creating Day/Night Cycle | https://www.youtube.com/watch?v=Puz-CsjdkLU&t=416s |
 | ⏯️ | Developing White Noise Machine | https://www.youtube.com/watch?v=zxDh4GtFsN8 |
 | ⏯️ | Developing Dynamic Wind System | https://www.youtube.com/watch?v=oZW1U882mh4 |
+| ⏯️ | Camera Shake Effect | https://www.youtube.com/watch?v=-urRuL3jmUw&t=3s |
 | 🔊 | Crickets | https://freesound.org/people/rifualk/sounds/648470/ |
 | 🔊 | Birds | https://freesound.org/people/_tyler7687/sounds/516773/ |
 | 🔊 | Rain Pitter Patter | https://freesound.org/people/Koops/sounds/17877/ |
